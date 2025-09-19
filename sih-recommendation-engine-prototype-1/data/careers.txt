@@ -1,0 +1,262 @@
+[
+  {
+    "career": "Mechanical Engineer",
+    "description": "Designs, analyzes, and manufactures mechanical systems using principles of motion, energy, and force. They work on everything from car engines to robotics.",
+    "keywords": ["engineering", "mechanics", "design", "robotics", "thermodynamics", "physics", "automotive", "machines"],
+    "skills": ["CAD software", "problem-solving", "analytical skills", "project management", "prototyping", "mathematics"],
+    "quiz_answers": [
+      "I enjoy figuring out how machines and devices work.",
+      "I am skilled in physics and mathematics.",
+      "I like to design and build physical things.",
+      "I find engines and complex machinery fascinating.",
+      "I am methodical and enjoy detailed planning for projects."
+    ]
+  },
+  {
+    "career": "Biologist",
+    "description": "Studies living organisms and their relationships with their environment. They can work in labs, fieldwork, or a combination of both.",
+    "keywords": ["biology", "life science", "genetics", "ecology", "research", "lab work", "organisms", "environment"],
+    "skills": ["scientific method", "data analysis", "lab techniques", "field research", "critical thinking", "communication"],
+    "quiz_answers": [
+      "I am fascinated by living organisms and natural systems.",
+      "I enjoy performing experiments and analyzing results.",
+      "I am curious about the processes of life and evolution.",
+      "I am patient and meticulous when observing and collecting data.",
+      "I prefer work that allows me to explore the natural world."
+    ]
+  },
+  {
+    "career": "Civil Engineer",
+    "description": "Designs, constructs, and maintains physical and naturally built environments, including roads, bridges, canals, dams, and buildings.",
+    "keywords": ["infrastructure", "construction", "design", "planning", "urban development", "structural engineering", "public works"],
+    "skills": ["structural analysis", "project management", "AutoCAD", "problem-solving", "technical writing", "math"],
+    "quiz_answers": [
+      "I am interested in how cities and infrastructure are built.",
+      "I enjoy planning and organizing large-scale projects.",
+      "I have a passion for designing safe and functional public spaces.",
+      "I am good at visualizing how things fit together to create a whole structure.",
+      "I am motivated by the idea of building things that will last for generations."
+    ]
+  },
+  {
+    "career": "Human Resources Manager",
+    "description": "Oversees the administrative functions of an organization, including recruitment, employee relations, and training. They are key to creating a positive work environment.",
+    "keywords": ["HR", "human resources", "recruitment", "employee relations", "management", "leadership", "organizational development", "talent acquisition"],
+    "skills": ["interpersonal skills", "communication", "conflict resolution", "negotiation", "organizational skills", "empathy"],
+    "quiz_answers": [
+      "I am a people person and enjoy working with others.",
+      "I am good at mediating disputes and finding fair solutions.",
+      "I am interested in how organizations can support their employees.",
+      "I believe that a company's success depends on its people.",
+      "I am highly organized and good at managing sensitive information."
+    ]
+  },
+  {
+    "career": "Financial Analyst",
+    "description": "Provides guidance to businesses and individuals making investment decisions. They analyze financial data and market trends to forecast future performance.",
+    "keywords": ["finance", "investing", "stocks", "accounting", "economics", "data analysis", "market trends", "forecasting"],
+    "skills": ["financial modeling", "Excel", "analytical skills", "attention to detail", "risk assessment", "market research"],
+    "quiz_answers": [
+      "I am comfortable working with numbers and complex data.",
+      "I enjoy following economic trends and financial news.",
+      "I am good at finding patterns and making predictions based on data.",
+      "I am interested in how businesses and economies function.",
+      "I am driven by the idea of helping people make smart financial decisions."
+    ]
+  },
+  {
+    "career": "Architect",
+    "description": "Designs buildings and other physical structures. They combine creativity with knowledge of structural integrity, safety regulations, and aesthetics.",
+    "keywords": ["architecture", "design", "buildings", "construction", "creativity", "urban planning", "drafting"],
+    "skills": ["CAD software", "drawing", "spatial reasoning", "creativity", "project management", "problem-solving"],
+    "quiz_answers": [
+      "I have a passion for creating beautiful and functional spaces.",
+      "I enjoy both artistic and technical work.",
+      "I find myself thinking about how buildings are designed.",
+      "I am good at visualizing complex, three-dimensional spaces.",
+      "I am interested in the history of design and urban development."
+    ]
+  },
+  {
+    "career": "Physical Therapist",
+    "description": "Helps patients restore function and mobility after injury or illness. They develop individualized treatment plans to reduce pain and improve quality of life.",
+    "keywords": ["physical therapy", "rehabilitation", "health", "anatomy", "movement", "exercise", "patient care"],
+    "skills": ["anatomy knowledge", "empathy", "communication", "patience", "problem-solving", "clinical skills"],
+    "quiz_answers": [
+      "I want to help people recover from injuries and live healthier lives.",
+      "I am interested in how the human body moves and functions.",
+      "I enjoy teaching and guiding others.",
+      "I am a good listener and can connect with people on a personal level.",
+      "I am a patient person who enjoys seeing gradual, positive changes."
+    ]
+  },
+  {
+    "career": "Chef",
+    "description": "Manages kitchen staff and food preparation in a professional kitchen. This role requires creativity, culinary skills, and the ability to work in a fast-paced environment.",
+    "keywords": ["culinary", "cooking", "chef", "food", "kitchen", "restaurant", "hospitality", "cuisine"],
+    "skills": ["culinary techniques", "food safety", "creativity", "time management", "leadership", "stress management"],
+    "quiz_answers": [
+      "I have a passion for creating delicious and beautiful food.",
+      "I am comfortable working long hours in a high-pressure environment.",
+      "I am a creative person who enjoys experimenting with new flavors.",
+      "I enjoy working as part of a team to deliver an excellent product.",
+      "I find the process of transforming ingredients into a meal deeply satisfying."
+    ]
+  },
+  {
+    "career": "Teacher",
+    "description": "Educates students in a specific subject or grade level. Teachers design lesson plans, assess student progress, and create a supportive learning environment.",
+    "keywords": ["education", "teaching", "pedagogy", "curriculum", "mentoring", "classroom management", "child development"],
+    "skills": ["communication", "patience", "creativity", "subject matter expertise", "classroom management", "public speaking"],
+    "quiz_answers": [
+      "I enjoy explaining complex ideas to others.",
+      "I want to help the next generation learn and grow.",
+      "I have a passion for a specific subject and want to share it.",
+      "I am a patient and encouraging person.",
+      "I find it rewarding to watch a student have a 'lightbulb' moment."
+    ]
+  },
+  {
+    "career": "Environmental Scientist",
+    "description": "Studies the effects of human activity on the environment and develops solutions to protect it. They conduct research, collect data, and advise on policy.",
+    "keywords": ["environment", "ecology", "sustainability", "conservation", "pollution", "climate change", "research"],
+    "skills": ["field research", "data analysis", "environmental policy knowledge", "scientific writing", "problem-solving"],
+    "quiz_answers": [
+      "I am concerned about environmental issues and want to find solutions.",
+      "I enjoy spending time outdoors and studying natural systems.",
+      "I am interested in the intersection of science and public policy.",
+      "I am a curious person who likes to investigate problems from all angles.",
+      "I am driven by the idea of making a positive impact on the planet."
+    ]
+  },
+  {
+    "career": "Electrician",
+    "description": "Installs, maintains, and repairs electrical wiring, systems, and fixtures. This is a skilled trade that requires technical knowledge and a focus on safety.",
+    "keywords": ["electrician", "electrical", "wiring", "construction", "skilled trades", "maintenance", "power", "circuits"],
+    "skills": ["electrical code knowledge", "troubleshooting", "safety procedures", "hand tools", "problem-solving", "math skills"],
+    "quiz_answers": [
+      "I am good with my hands and enjoy practical work.",
+      "I am fascinated by how electricity works.",
+      "I prefer work that allows me to solve immediate, physical problems.",
+      "I am a detail-oriented person and prioritize safety.",
+      "I enjoy learning technical skills and putting them into practice."
+    ]
+  },
+  {
+    "career": "Journalist",
+    "description": "Investigates and reports on events, issues, and trends for a wide range of media. This role requires strong writing skills, curiosity, and a commitment to truth.",
+    "keywords": ["journalism", "reporting", "writing", "news", "communication", "investigation", "media", "storytelling"],
+    "skills": ["writing and editing", "interviewing", "research skills", "critical thinking", "ethics", "public speaking"],
+    "quiz_answers": [
+      "I am a curious person who loves to learn new things.",
+      "I enjoy writing and telling stories.",
+      "I am passionate about informing the public and holding power accountable.",
+      "I am good at asking questions and getting to the heart of an issue.",
+      "I thrive in fast-paced environments where I can meet deadlines."
+    ]
+  },
+  {
+    "career": "Librarian",
+    "description": "Manages and organizes information resources for a public or academic institution. They assist patrons in finding information and promote literacy.",
+    "keywords": ["library science", "information management", "research", "literacy", "cataloging", "public service", "books"],
+    "skills": ["organizational skills", "research skills", "communication", "IT skills", "cataloging", "customer service"],
+    "quiz_answers": [
+      "I love to read and am passionate about information and knowledge.",
+      "I am highly organized and enjoy creating order from chaos.",
+      "I am a patient person and enjoy helping others find what they need.",
+      "I am a natural researcher and love to dig deep to find answers.",
+      "I am interested in how information is stored, accessed, and preserved."
+    ]
+  },
+  {
+    "career": "Marketing Manager",
+    "description": "Develops and executes marketing strategies to promote a company's products or services. This role combines creativity with analytical skills and an understanding of consumer behavior.",
+    "keywords": ["marketing", "strategy", "brand management", "advertising", "market research", "communication", "consumer behavior"],
+    "skills": ["digital marketing", "social media management", "brand strategy", "communication", "project management", "analytics"],
+    "quiz_answers": [
+      "I enjoy understanding what motivates people to buy things.",
+      "I am good at persuasive communication and public speaking.",
+      "I like to create plans and strategies to reach a wide audience.",
+      "I am a people person and enjoy networking and building relationships.",
+      "I find it exciting to see a product or service succeed because of a well-executed plan."
+    ]
+  },
+  {
+    "career": "Social Worker",
+    "description": "Assists individuals, families, and communities to improve their quality of life. They advocate for clients and help them navigate difficult situations.",
+    "keywords": ["social work", "advocacy", "community", "mental health", "counseling", "case management", "non-profit"],
+    "skills": ["empathy", "communication", "active listening", "problem-solving", "case management", "cultural competence"],
+    "quiz_answers": [
+      "I have a strong desire to help those who are struggling.",
+      "I am a good listener and non-judgmental.",
+      "I am interested in understanding the social and economic issues in communities.",
+      "I can remain calm and professional in difficult situations.",
+      "I am passionate about fighting for social justice and equity."
+    ]
+  },
+  {
+    "career": "Veterinarian",
+    "description": "Provides medical and surgical care for animals. This role requires extensive knowledge of animal biology and medicine, along with a compassionate nature.",
+    "keywords": ["veterinary", "animal care", "medicine", "pets", "biology", "surgery", "zoology"],
+    "skills": ["animal biology", "clinical skills", "patience", "communication with pet owners", "diagnostic skills"],
+    "quiz_answers": [
+      "I have a deep love for animals and their well-being.",
+      "I am interested in how animals' bodies work.",
+      "I am calm and empathetic, even in stressful situations with animals.",
+      "I am good at working with both animals and people.",
+      "I am dedicated to a career that involves science and helping living things."
+    ]
+  },
+  {
+    "career": "UX/UI Designer",
+    "description": "Designs user-friendly interfaces and experiences for websites and mobile applications. They focus on making technology intuitive and enjoyable to use.",
+    "keywords": ["UX", "UI", "user experience", "user interface", "design", "wireframing", "prototyping", "usability"],
+    "skills": ["Figma", "Sketch", "prototyping", "user research", "critical thinking", "visual design", "empathy"],
+    "quiz_answers": [
+      "I am interested in how people interact with technology.",
+      "I enjoy making things easy to use and understand.",
+      "I am a creative person who also enjoys solving technical problems.",
+      "I am a good listener and am curious about user needs and motivations.",
+      "I have a keen eye for detail and visual aesthetics."
+    ]
+  },
+  {
+    "career": "Cybersecurity Analyst",
+    "description": "Protects an organization's computer systems and networks from cyber threats. They identify vulnerabilities, monitor for attacks, and implement security measures.",
+    "keywords": ["cybersecurity", "security", "hacking", "IT", "networks", "threats", "analysis", "information security"],
+    "skills": ["network security", "cryptography", "problem-solving", "ethical hacking", "forensics", "attention to detail"],
+    "quiz_answers": [
+      "I am interested in how to protect digital information and systems.",
+      "I enjoy puzzles and finding hidden weaknesses.",
+      "I am a methodical and detail-oriented person.",
+      "I thrive on staying ahead of potential threats.",
+      "I am fascinated by how hackers and cybercriminals operate."
+    ]
+  },
+  {
+    "career": "Chef",
+    "description": "Manages kitchen staff and food preparation in a professional kitchen. This role requires creativity, culinary skills, and the ability to work in a fast-paced environment.",
+    "keywords": ["culinary", "cooking", "chef", "food", "kitchen", "restaurant", "hospitality", "cuisine"],
+    "skills": ["culinary techniques", "food safety", "creativity", "time management", "leadership", "stress management"],
+    "quiz_answers": [
+      "I have a passion for creating delicious and beautiful food.",
+      "I am comfortable working long hours in a high-pressure environment.",
+      "I am a creative person who enjoys experimenting with new flavors.",
+      "I enjoy working as part of a team to deliver an excellent product.",
+      "I find the process of transforming ingredients into a meal deeply satisfying."
+    ]
+  },
+  {
+    "career": "Photographer",
+    "description": "Captures and edits images for a wide range of purposes, including art, advertising, journalism, and personal events. This requires technical skills and an artistic eye.",
+    "keywords": ["photography", "camera", "visuals", "art", "editing", "lighting", "creativity", "storytelling"],
+    "skills": ["camera operation", "editing software (e.g., Lightroom, Photoshop)", "composition", "lighting techniques", "communication"],
+    "quiz_answers": [
+      "I enjoy telling stories through pictures instead of words.",
+      "I am fascinated by light, shadow, and visual composition.",
+      "I have a keen eye for detail and capturing special moments.",
+      "I am patient and can wait for the perfect shot.",
+      "I am a creative person and enjoy expressing myself visually."
+    ]
+  }
+]
